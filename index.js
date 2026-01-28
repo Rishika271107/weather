@@ -1,3 +1,4 @@
+//CLI Weather Application
 import fetch from "node-fetch";
 
 // Read city name from command-line arguments
